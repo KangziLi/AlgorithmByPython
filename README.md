@@ -1,8 +1,10 @@
 # AlgorithmByPython
-Python Solutions to problems on LintCode
+Python Solutions to problems on [LintCode](http://www.lintcode.com)
 
 | Squence |                 Problem                  | Level  |
 | :-----: | :--------------------------------------: | :----: |
+|    1    | [A + B Problem](https://github.com/KangziLi/AlgorithmByPython/blob/master/1.%20A%20%2B%20B%20Problem.py) |  Easy  |
+|    2    | [Trailing Zeros](https://github.com/KangziLi/AlgorithmByPython/blob/master/2.%20Trailing%20Zeros.py) |  Easy  |
 |    9    | [Fizz Buzz](https://github.com/KangziLi/AlgorithmByPython/blob/master/9.%20Fizz%20Buzz.py) |  Easy  |
 |   35    | [Reverse Linked List](https://github.com/KangziLi/AlgorithmByPython/blob/master/35.%20Reverse%20Linked%20List.py) |  Easy  |
 |   73    | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/KangziLi/AlgorithmByPython/blob/master/73.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py) | Medium |
