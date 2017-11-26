@@ -1,3 +1,10 @@
+"""
+Created on Sun Nov 26 18:35:06 2017
+
+@author: KangziLi
+@source: lintcode - 9. Fizz Buzz
+"""
+
 class Solution:
     """
     Given number n. Print number from 1 to n. But:
@@ -24,4 +31,3 @@ class Solution:
                 results.append(str(i))
         return results
         '''
-        
