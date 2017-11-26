@@ -1,3 +1,10 @@
+"""
+Created on Sun Nov 26 18:35:06 2017
+
+@author: KangziLi
+@source: lintcode - 366. Fibonacci
+"""
+
 class Solution:
     '''
     Find the Nth number in Fibonacci sequence.
