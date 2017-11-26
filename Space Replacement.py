@@ -1,3 +1,10 @@
+"""
+Created on Sun Nov 26 18:35:06 2017
+
+@author: KangziLi
+@source: lintcode - 212. Space Replacement
+"""
+
 class Solution:
     """
     Write a method to replace all spaces in a string with %20. The string is given in a characters array, you can assume it has enough space for replacement and you are given the true length of the string.
