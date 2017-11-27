@@ -1,7 +1,7 @@
 """
 Created on Mon Nov 27 18:05:40 2017
 
-@author: 18316
+@author: KangziLi
 @source: lintcode - 3. Digit Counts
 """
 
