@@ -2,6 +2,8 @@
 
 Python Solutions to problems on [LintCode](http://www.lintcode.com) 
 
+本文为在LintCode解题的算法思路笔记，以下所有代码在GitHub进行托管
+
 源码地址为：[KangziLi/**AlgorithmByPython**](https://github.com/KangziLi/AlgorithmByPython)
 
 ##1. A + B 问题 · A + B Problem
@@ -166,4 +168,12 @@ class Solution:
         return list[-1]
 ```
 
-## 
+## 5.
+
+
+
+##6.
+
+
+
+##7.
