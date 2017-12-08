@@ -16,7 +16,8 @@ class Solution:
     """
     def median(self, nums):
         nums.sort()
-        k = int(len(nums)/2)
+        l = len(nums)
+        k = int(l/2)
         if l%2 == 1:
             return nums[k]
         else:
