@@ -13,6 +13,7 @@ LeetCode: 575. Distribute Candies
 #corresponding kind. You need to distribute these candies equally in number to 
 #brother and sister. Return the maximum number of kinds of candies the sister 
 #could gain.
+
 #Input: candies = [1,1,2,3]
 #Output: 2
 #Explanation: For example, the sister has candies [2,3] and the brother has candies [1,1]. 
