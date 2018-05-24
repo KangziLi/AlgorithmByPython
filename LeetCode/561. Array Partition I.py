@@ -14,7 +14,7 @@ LeetCode: 561. Array Partition I
 #
 # n is a positive integer, which is in the range of [1, 10000].
 # All the integers in the array will be in the range of [-10000, 10000].
-#
+
 # Input: [1,4,3,2]
 # Output: 4
 

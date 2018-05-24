@@ -14,11 +14,9 @@ LeetCode: 566. Reshape the Matrix
 #
 #The height and width of the given matrix is in range [1, 100].
 #The given r and c are all positive.
-#
+
 #Input: 
-#nums = 
-#[[1,2],
-# [3,4]]
+#nums = [[1,2],[3,4]]
 #r = 1, c = 4
 #Output: 
 #[[1,2,3,4]]
